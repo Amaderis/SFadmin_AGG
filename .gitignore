@@ -2,4 +2,4 @@ nginx/
 ansible/playbooks/add_user.yml
 ansible/playbooks/script.yml
 ansible/common/files/
-hosts
+ansible/hosts

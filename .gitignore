@@ -1,7 +1,9 @@
 nginx/
-ansible/playbooks/reddis.yml 
 ansible/playbooks/script.yml 
-ansible/playbooks/zabbix.yml
 ansible/common/files/
 ansible/playbooks/.script.yml.swp
-hosts
+ansible/hosts
+ansible/playbooks/.script.yml.swp
+ansible/playbooks/script.yml
+ansible/common/files/testweb.sh
+ansible/common/files/id_rsa.pub

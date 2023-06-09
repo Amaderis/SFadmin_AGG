@@ -1,2 +1,6 @@
 nginx/
 ansible/hosts
+ansible/playbooks/add_user.yml
+ansible/playbooks/script.yml
+ansible/common/files/testweb.sh
+ansible/playbooks/.script.yml.swp

@@ -3,4 +3,5 @@ ansible/playbooks/reddis.yml
 ansible/playbooks/script.yml 
 ansible/playbooks/zabbix.yml
 ansible/common/files/
+ansible/playbooks/.script.yml.swp
 hosts

@@ -1,3 +1,6 @@
-nginx
+nginx/
+ansible/playbooks/redis.yml 
+ansible/playbooks/script.yml 
+ansible/playbooks/zabbix_agent.yml
+ansible/common/files/
 hosts
-hostname*
